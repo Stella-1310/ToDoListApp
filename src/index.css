@@ -89,7 +89,7 @@ h3 {
 }
 
 body {
-    background-image: url("src/assets/app-bg.jpg");
+    background-image: url("/app-bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
